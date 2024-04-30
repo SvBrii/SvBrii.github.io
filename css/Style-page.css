@@ -1,0 +1,28 @@
+@charset "utf-8";
+body  {
+    background-color: #88AAC1;
+}
+.pp_footer  {
+    background-color: #4676FA;
+    color: #1E0F75;
+}
+.btn-style {
+    background-color: #095384;
+    color: #A499DE;
+}
+h6 {
+    color: #1E0F75;
+    font-size: xx-large;
+}
+
+
+.nav-style {
+    background-color: #523EC1;
+}
+.nav-link {
+    color: #B45FF2;
+}
+.pp_footer2 {
+    background-color: #A499DE;
+    color: #1E0F75;
+}
